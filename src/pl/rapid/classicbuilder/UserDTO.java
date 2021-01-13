@@ -1,4 +1,4 @@
-package pl.rapid.builder;
+package pl.rapid.classicbuilder;
 
 //final product create by builder
 public class UserDTO {
