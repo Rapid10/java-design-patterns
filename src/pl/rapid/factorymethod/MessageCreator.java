@@ -9,6 +9,6 @@ public abstract class MessageCreator {
         return msg;
     }
 
-    public abstract Message createMessage();
+    protected abstract Message createMessage();
 
 }
